@@ -1,7 +1,7 @@
 import kotlinx.coroutines.*
 import org.junit.jupiter.api.Test
 
-class CancellableCoroutine {
+class CancellableCoroutineTest {
 
     @Test
     fun notCancellableTest() {
