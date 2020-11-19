@@ -1,8 +1,6 @@
-import org.junit.jupiter.api.Test
 import kotlinx.coroutines.*
-import org.junit.jupiter.api.assertThrows
+import org.junit.jupiter.api.Test
 import java.util.*
-import kotlin.concurrent.thread
 
 class CoroutineTest {
 
